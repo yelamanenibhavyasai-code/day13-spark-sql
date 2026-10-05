@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/bhavya/day13-spark-sql/target/out/jvm/scala-2.12.18/day13-spark-sql/day13-spark-sql_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomerAnalytics$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bhavya/day13-spark-sql/target/out/jvm/scala-2.12.18/day13-spark-sql/classes/CustomerAnalytics$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomerAnalytics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bhavya/day13-spark-sql/target/out/jvm/scala-2.12.18/day13-spark-sql/classes/CustomerAnalytics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mwrote ${OUT}/jvm/scala-2.12.18/day13-spark-sql/day13-spark-sql_2.12-0.1.0-SNAPSHOT.jar[0m

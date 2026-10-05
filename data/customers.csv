@@ -1,0 +1,11 @@
+CustomerID,Name,Age,City,PurchaseAmount
+C001,Alice,25,Hyderabad,15000
+C002,Bob,32,Bangalore,8500
+C003,Charlie,28,Chennai,12000
+C004,David,35,Hyderabad,22000
+C005,Emma,24,Pune,6500
+C006,Frank,41,Bangalore,18000
+C007,Grace,29,Chennai,9500
+C008,Helen,38,Hyderabad,27000
+C009,Ian,26,Pune,11000
+C010,Jack,45,Bangalore,30000
